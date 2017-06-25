@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/com/admin/AdminDeleteArticleDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/admin/AdminDeleteLiuYan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/admin/DeleteMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/datalink/DataLink.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/login/LoginConfirm.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
